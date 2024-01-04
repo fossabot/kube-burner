@@ -2,6 +2,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/kube-burner/kube-burner)](https://goreportcard.com/report/github.com/kube-burner/kube-burner)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkube-burner%2Fkube-burner.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkube-burner%2Fkube-burner?ref=badge_shield)
 
 # What is Kube-burner
 
@@ -37,3 +38,7 @@ In case you want to start tinkering with Kube-burner now:
 Please read the [Contributing section](https://kube-burner.github.io/kube-burner/latest/contributing/) before contributing to this project. It provides information on how to contribute, guidelines for setting an environment a CI checks to be done before commiting code.
 
 This project utilizes a Continuous Integration (CI) pipeline to ensure code quality and maintain project standards. The CI process automatically builds, tests, and verifies the project on each commit and pull request.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkube-burner%2Fkube-burner.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkube-burner%2Fkube-burner?ref=badge_large)
